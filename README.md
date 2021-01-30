@@ -14,4 +14,4 @@
 ``GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' WITH GRANT OPTION;``
 
 ### Execute SQL file to create database with user privileges
-``docker exec -i task1 mysql -h0.0.0.0 -uroot -ppassword < covid19.sql``
+``docker exec -it task1 mysql -h0.0.0.0 -uroot -ppassword < covid19.sql``
