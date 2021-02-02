@@ -1,4 +1,10 @@
-Country,Date,Confirmed,Deaths,Recovered,Active,In ITU,PCRTests
+country,date,confirmed,deaths,recovered,active,itu,new_tests
+Malta,31/01/2020,0,0,0,0,0,0
+Malta,01/02/2020,0,0,0,0,0,0
+Malta,02/02/2020,0,0,0,0,0,0
+Malta,03/02/2020,0,0,0,0,0,0
+Malta,04/02/2020,0,0,0,0,0,0
+Malta,05/02/2020,0,0,0,0,0,0
 Malta,06/02/2020,0,0,0,0,0,1
 Malta,07/02/2020,0,0,0,0,0,0
 Malta,08/02/2020,0,0,0,0,0,0
