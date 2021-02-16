@@ -1,0 +1,22 @@
+--2019-11-20 08:38:31--  http://www.timesofmalta.com/classifieds/property-for-sale
+Resolving www.timesofmalta.com (www.timesofmalta.com)... 104.20.176.69, 104.20.177.69
+Connecting to www.timesofmalta.com (www.timesofmalta.com)|104.20.176.69|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.timesofmalta.com/classifieds/property-for-sale [following]
+--2019-11-20 08:38:31--  https://www.timesofmalta.com/classifieds/property-for-sale
+Connecting to www.timesofmalta.com (www.timesofmalta.com)|104.20.176.69|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://timesofmalta.com/classifieds/property-for-sale [following]
+--2019-11-20 08:38:32--  https://timesofmalta.com/classifieds/property-for-sale
+Resolving timesofmalta.com (timesofmalta.com)... 104.20.177.69, 104.20.176.69, 2606:4700:10::6814:b145, ...
+Connecting to timesofmalta.com (timesofmalta.com)|104.20.177.69|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/home/jp/gdrive-um/myprojects/tom_prop_classifieds/data/20191120_prop_for_sale_tom_classifieds.html’
+
+     0K .......... .......... .......... .......... .......... 1.72M
+    50K .......... .......... .......... .......... .......... 38.7M
+   100K .......... .......... .......... .........             40.6M=0.03s
+
+2019-11-20 08:38:32 (4.45 MB/s) - ‘/home/jp/gdrive-um/myprojects/tom_prop_classifieds/data/20191120_prop_for_sale_tom_classifieds.html’ saved [143028]
+
